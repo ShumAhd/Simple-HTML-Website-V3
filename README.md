@@ -7,4 +7,4 @@ style.css - файл CSS, в котором определяется стиль 
 img/ - папка, содержащая все изображения, используемые на веб-странице.
 
 ### Вид страницы
-()[https://github.com/ShumAhd/Simple-HTML-Website-V3/blob/master/img/2023-07-17_111727.jpg]
+!()[https://github.com/ShumAhd/Simple-HTML-Website-V3/blob/master/img/2023-07-17_111727.jpg]
